@@ -1,0 +1,38 @@
+***Problem Defination
+-its hard to manage all details of customers of all branches
+-Every branches has different employess and customers and every brances has different problem
+-so it is complicates to maintain and provide service for customers
+-for that every employee required different infrastructure and machine with update technology
+- so that cost also incresed and in case of where customers want to check the status of his project
+in that case employee has problem because they have to go near customers
+-For every time to check status customer has to go with employee and check the status. so it require more 
+time for that
+-its a limited service because employee can not provide service for 24 hours
+-in case customers want to view project but he has away from location then employee can not reach there
+physcically. in that case employee can not send via other sources cause if securities
+-For manger to view status of employee work and problem he should go with every customers one by one
+which is hard to  maintain data
+-in case manager want to check customers details then it will required more time in that process
+
+
+***functional
+-Employee Login in signup for every offices 
+-Employee access corporate customers account
+-Emoloyee generate and manage token as per customers issues
+-All Employee have office google cloud access
+-Every offices has manager. He also have login and one google platform and its access
+-Manager can check status of all token
+-Manager can check customers information as well as employee information
+-customer have login and they can check token 
+-Owner can check all details
+
+
+***NON-functional
+-Security
+-privacy
+-less time to checking details
+- less step for every activity
+- accessability
+- Easy to maintain
+- No coplexity
+
